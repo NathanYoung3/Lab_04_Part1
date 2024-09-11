@@ -28,7 +28,7 @@ public class Main {
         doubleQuotient = doubleOperandA / doubleOperandB;
         doubleModulo = doubleOperandA % doubleOperandB;
 
-        //outputs results
+        //output results
         System.out.println("The sum using ints of " + intOperandA + " and " + intOperandB +  " is " + intSum);
         System.out.println("The difference using ints of " + intOperandA + " and " + intOperandB +  " is " + intDifference);
         System.out.println("The product using ints of " + intOperandA + " and " + intOperandB +  " is " + intProduct);
